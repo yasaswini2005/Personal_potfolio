@@ -1,0 +1,118 @@
+*{
+    background-color: antiquewhite;
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-image: url('o.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-size: 100% 1000%;
+
+}
+body {
+  
+  }
+.home{
+    background-color: greenyellow;
+    height: 100vh;
+    border: 2px olid black;
+
+}
+.nav_side{
+
+height: 100vh;
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+  
+  
+}
+.nav_side a{
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+    display: flex;
+   
+       height: 15vh;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid rgb(116, 217, 172);
+}
+.nav_side a:hover{
+    background-color: rgb(172, 233, 149);
+    color: black;
+    background-image: none;
+    
+    background-color: teal;
+  
+}
+
+.main{
+    display: flex;
+
+}
+.nav h1{
+    border: 2px solid rgb(116, 217, 172);
+    height:15vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 160vh;
+    margin-left: px;
+    color: aliceblue;
+    position: fixed;
+    top: 0;
+    left;0;
+ 
+}
+.nav h1:hover{
+    color: black;
+    background-image:none ;
+    background-color: rgb(50, 214, 102);
+  
+}
+.class{
+  
+    background-image: none;
+}
+.footer h1{
+    border: 2px solid rgb(116, 217, 172);
+    height: 15vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 160vh;
+    margin-left: -3px;
+    color: aliceblue;
+    position: fixed;
+    bottom: 0;
+    left;0;
+ 
+}
+.footer h1:hover{
+    color: black;
+    background-image:none ;
+    background-color: rgb(50, 214, 102);
+  
+}
+.nav_side{
+    position: fixed;
+    bottom: 0;
+    left;0;
+ top:0;
+ 
+
+
+}
+.nav{
+    margin-left: -3px;
+}
+.home{
+    margin-left: 297px;
+  margin-top: 15vh;  
+}
+#p{
+    width: 9000%;
+}
