@@ -1,6 +1,6 @@
 # Personal_potfolio
-This 
-Home pageis html and css small project
+This is html and css small project
+Home page
 ![Screenshot (107)](https://github.com/yasaswini2005/Personal_potfolio/assets/139364347/fe76fd9c-c627-4bdd-a8e5-a4fb2173025e)
 Name page
 ![Screenshot (108)](https://github.com/yasaswini2005/Personal_potfolio/assets/139364347/a85f6745-83ab-4946-9ae7-8b68e4dd85c0)
