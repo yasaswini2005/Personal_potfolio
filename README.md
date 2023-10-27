@@ -2,6 +2,10 @@
 This is html and css small project
 
 link https://653bb483d9fab040760fc9a4--eloquent-pudding-e729bf.netlify.app/
+
+
+
+
 Home page
 ![Screenshot (107)](https://github.com/yasaswini2005/Personal_potfolio/assets/139364347/fe76fd9c-c627-4bdd-a8e5-a4fb2173025e)
 Name page
